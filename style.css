@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+}
+
+.main-section {
+    height: 100vh;
+    width: 100vw;
+}
+
+ul {
+    list-style-type: none;    
+}
+
+.drop-menu-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    margin: 10px 10px 0 10px;
+}
+
+.drop-menu {
+    margin: 0 0 0 8px;
+    padding: 0;
+}
+
+.drop-menu-btns {
+    width: 240px;
+    height: 40px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.drop-menu-hide {
+    display: none;
+}
+
+.home-bckgr {
+    background-color: rgb(211, 207, 207);
+}
+
+.red-bckgr {
+    background-color: red;
+}
+
+.orange-bckgr {
+    background-color: orange;
+}
+
+.purple-bckgr {
+    background-color: purple;
+}
+
+.green-bckgr {
+    background-color: green;
+}
+
+
+
+
